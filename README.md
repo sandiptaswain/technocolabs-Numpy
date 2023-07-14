@@ -1,1 +1,1 @@
-# technocolabs-Numpy
+# technocolabs-pandas
